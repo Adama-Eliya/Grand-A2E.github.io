@@ -1,0 +1,14 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-color:   ;
+}
+h1{
+	color: RGBa(255,050,050,1);
+}
+.para1{
+	color: #FF0000;
+	opacity: 1;
+}
+.para2{
+	color: #00FF00;
+}
