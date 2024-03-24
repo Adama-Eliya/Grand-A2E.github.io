@@ -1,14 +1,18 @@
 body{
-	font-family: 'Open Sans', sans-serif;
-	background-color:   ;
+	margin : 0;
+	padding : 0;
+	height : 100 vh ;
+	background-image: url("adama.jpg");
+	background-size : cover;
+	background-position : center;
+	display : flex;
+	justify-content: center;
+	align-items: center;
+	color : white;
+	font-family: "Open sans", sans-serif;
 }
-h1{
-	color: RGBa(255,050,050,1);
+.container{
+	text-align: center ;
 }
-.para1{
-	color: #FF0000;
-	opacity: 1;
-}
-.para2{
-	color: #00FF00;
-}
+
+
