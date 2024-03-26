@@ -9,9 +9,27 @@
 <body>
 	<script >
 		alert("Bienvenu sur le site A²E")
-		prompt("Enter votre nom")
-		prompt("Enter votre prenom")
-		prompt("Enter votre email")
+		var liste = ["avlah","mileko","agougnon","avosse","ali","tossou","kossi","bellow"]
+		var nom = prompt("Enter votre nom :")
+			var nom_minu = nom.toLowerCase()
+		while (!liste.includes(nom_minu)) {
+			var nom = prompt("Enter votre nom :")
+			var nom_minu = nom.toLowerCase()
+			
+		}
+		alert("Votre nom est correcte 👉")
+		var liste1 = ["specter","eliya","adama","epihane","félicité","gille","gademo","narcisse","florent","judith","patricia","isaac",]
+		var prenom = prompt("Enter un de vos prenom : ")
+			var prenom_minu = prenom.toLowerCase()
+		while (!liste1.includes(prenom_minu)) {
+			var prenom = prompt("Enter un de vos prenom : ")
+			var prenom_minu = prenom.toLowerCase()
+			
+		}
+		alert("Votre prenom est correcte. 😎😎")
+		alert("Amuser vous bien sur le site. 🎉🎉🎊🎊❤🎇🤑")
+
+		
 	</script>
 
 
