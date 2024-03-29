@@ -1,9 +1,9 @@
 .P1{
-	display: flex;
-	flex-wrap: wrap;
-}
-
-.P1{
-	width: 300px;
+	width: 400px;
 	height: auto;
+	display: inline-block;
+
+.P2{
+	width: 200px;
+	height: 200px;
 }
