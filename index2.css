@@ -25,4 +25,9 @@ body{
 	opacity: 1;
 	z-index: -1;
 }
-
+a{
+	color: #f00;
+}
+#p1{
+	color: #f00;
+}

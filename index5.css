@@ -1,0 +1,25 @@
+span{
+	color: blue;
+}
+h2{
+	
+	color : blue;
+}
+
+.p2{
+	color: red;
+	font-weight: bold;
+}
+.p4{
+	color: #0a0;
+}
+div{
+	font-size: 20px;
+}
+a{
+	color: black;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: blue;
+	text-decoration: unset;
+}
